@@ -1,0 +1,7 @@
+google-generativeai
+pedalboard
+numpy
+scipy
+soundfile
+python-dotenv
+pysofaconventions
